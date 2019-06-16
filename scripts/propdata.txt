@@ -1,4 +1,4 @@
-/// "prop data name" 
+// "prop data name" 
 // { 
 // "property" 	"value"
 // ...
