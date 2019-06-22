@@ -1,0 +1,5 @@
+"schema"
+{
+	"dac_ui_mode"		"1"
+	"sound_device_override"		"Source2SDLDefaultDevice"
+}
